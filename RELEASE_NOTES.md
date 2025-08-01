@@ -5,54 +5,56 @@ Welcome to the first alpha release of Meadow Browser!
 ## What's in this Alpha
 
 **AI Features:**
-
 - Intelligent chat with automatic tab context extraction
 - Cross-tab context awareness (@mention multiple tabs)
 - Image analysis and screenshot support
 - Multiple AI provider support (OpenAI, Anthropic, Google)
 
 **Browser Features:**
-
-- Full Chromium browsing experience
+- Chromium browsing experience
 - Smart bookmarks with one-click saving
 - Tab memory management for performance
 
 **Layout & Design:**
-
-- Vertical tab sidebar with groups
+- Vertical tab sidebar
 - Split-screen tab view
-- URL display in tab sidebar
+- URL display in tab sidebar option
 - Collapsible favicon-only mode
 - Flexible layout switching
 - Dark/light theme support
 
-## Installation
+## Coming Soon
 
-**Requirements:**
+**AI Enhancements:**
+- Prompt vault for saved templates
+- Slash commands for quick prompt access
+- Personalized AI responses
+- Conversation history search
+- Custom AI agents
 
-- macOS 11.0 (Big Sur) or later
-- Apple Silicon (M1/M2/M3) recommended
-- Intel processors supported with limited optimization
+**Browser Improvements:**
+- Advanced ad blocker
+- Enhanced cookie management
+- Chrome extension support
+- Bookmark folders & organization
+- Smart tab grouping
+- Custom search engines
 
-**Files:**
-
-- `Meadow-0.0.1-alpha-arm64.dmg` - For Apple Silicon Macs
-- `Meadow-0.0.1-alpha-x64.dmg` - For Intel Macs
+**Interface Updates:**
+- Horizontal tab option
+- Custom themes & colors
+- Configurable keyboard shortcuts
+- Workspace management
 
 ## Important Notes
 
 - This alpha includes a bundled API key with rate limits for testing
 - Add your own API keys in Settings for unlimited usage
-- Your browsing data stays local and encrypted
+- Please report bugs via the feedback button
+- Your browsing and AI conversation data stays local and encrypted
+- The Intel build is provided inside the attached zip for compatibility but may experience performance issues
+- On first launch, right click Meadow app in your applications folder and select open to bypass Apple Gatekeeper
 
-## Known Issues
+Thank you for being part of Meadow's journey. Your feedback shapes what we build next.
 
-- Browser automation mode is coming soon
-- Intel build may experience performance issues
-- Some websites may not render correctly in split view
-
-Thank you for being part of Meadow's journey!
-
----
-
-_Please report any issues or feedback through the in-app feedback button._
+Let's browse better, together.
