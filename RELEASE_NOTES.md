@@ -53,7 +53,8 @@ Welcome to the first alpha release of Meadow Browser!
 - Please report bugs via the feedback button
 - Your browsing and AI conversation data stays local and encrypted
 - The Intel build is provided inside the attached zip for compatibility but may experience performance issues
-- On first launch, right click Meadow app in your applications folder and select open to bypass Apple Gatekeeper
+- **Installation:** After dragging to Applications, right-click Meadow and select "Open" to bypass Gatekeeper
+- **If you see "Meadow is damaged":** Open Terminal and run: `xattr -cr /Applications/Meadow.app`
 
 Thank you for being part of Meadow's journey. Your feedback shapes what we build next.
 
